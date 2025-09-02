@@ -18,7 +18,7 @@ const Hero = () => {
   <div className="flex flex-col items-center text-center text-white">
     
     <h1 className="text-5xl lg:text-6xl font-bold mb-6 leading-tight">
-      NLR Global
+      NLR GLOBAL
       <span className="text-emerald-400 block">Software Solutions</span>
     </h1>
     

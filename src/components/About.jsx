@@ -25,7 +25,7 @@ const About = () => {
             <div className="mt-8 p-6 bg-blue-50 rounded-2xl border-l-4 border-blue-600">
               <div className="flex items-center mb-3">
                 <MapPin className="h-6 w-6 text-blue-600 mr-2" />
-                <span className="text-2xl mr-2">📍</span>
+                {/* <span className="text-2xl mr-2">📍</span> */}
                 <h4 className="text-lg font-semibold text-gray-900">Our Location</h4>
               </div>
               <p className="text-gray-700">
@@ -43,7 +43,7 @@ const About = () => {
                     <Building className="h-6 w-6 text-blue-600" />
                   </div>
                   <div>
-                    <h4 className="font-semibold text-gray-900 mb-1">🏢 Global Presence</h4>
+                    <h4 className="font-semibold text-gray-900 mb-1">Global Presence</h4>
                     <p className="text-gray-600 text-sm">Serving clients across multiple continents with local support and global expertise</p>
                   </div>
                 </div>
@@ -53,7 +53,7 @@ const About = () => {
                     <Users className="h-6 w-6 text-emerald-600" />
                   </div>
                   <div>
-                    <h4 className="font-semibold text-gray-900 mb-1">👨‍💻 Expert Team</h4>
+                    <h4 className="font-semibold text-gray-900 mb-1">Expert Team</h4>
                     <p className="text-gray-600 text-sm">Highly skilled professionals with extensive experience in modern technologies</p>
                   </div>
                 </div>
@@ -63,7 +63,7 @@ const About = () => {
                     <Calendar className="h-6 w-6 text-orange-600" />
                   </div>
                   <div>
-                    <h4 className="font-semibold text-gray-900 mb-1">⏰ 24/7 Support</h4>
+                    <h4 className="font-semibold text-gray-900 mb-1">24/7 Support</h4>
                     <p className="text-gray-600 text-sm">Round-the-clock support ensuring your business operations never stop</p>
                   </div>
                 </div>

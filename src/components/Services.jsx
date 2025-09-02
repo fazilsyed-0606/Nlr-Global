@@ -41,7 +41,7 @@ const Services = () => {
             Our Expertise
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            💻 Comprehensive IT services designed to drive innovation and growth for businesses across the globe
+            Comprehensive IT services designed to drive innovation and growth for businesses across the globe
           </p>
         </div>
 

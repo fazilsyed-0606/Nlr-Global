@@ -10,7 +10,7 @@ const Mission = () => {
             Mission & Vision
           </h2>
           <p className="text-xl text-blue-100 max-w-3xl mx-auto">
-            🚀 Driving innovation and excellence in every solution we deliver
+            Driving innovation and excellence in every solution we deliver
           </p>
         </div>
 

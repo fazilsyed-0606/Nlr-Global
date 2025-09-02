@@ -17,7 +17,7 @@ const Trust = () => {
             Trusted Worldwide
           </h2>
           <p className="text-xl text-emerald-100 max-w-3xl mx-auto">
-            🤝 Trusted by clients for quality, integrity, and customer success
+            Trusted by clients for quality, integrity, and customer success
           </p>
         </div>
 

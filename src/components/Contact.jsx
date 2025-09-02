@@ -47,7 +47,7 @@ const Contact = () => {
                     <MapPin className="h-6 w-6 text-blue-600" />
                   </div>
                   <div>
-                    <h4 className="font-semibold text-gray-900 mb-1">📍 Headquarters</h4>
+                    <h4 className="font-semibold text-gray-900 mb-1">Headquarters</h4>
                     <p className="text-gray-600">Nellore, Andhra Pradesh, India</p>
                     <p className="text-gray-500 text-sm">Serving clients worldwide</p>
                   </div>
@@ -58,7 +58,7 @@ const Contact = () => {
                     <Mail className="h-6 w-6 text-emerald-600" />
                   </div>
                   <div>
-                    <h4 className="font-semibold text-gray-900 mb-1">📧 Email</h4>
+                    <h4 className="font-semibold text-gray-900 mb-1"> Email</h4>
                     <p className="text-gray-600">info@nlrglobal.com</p>
                     <p className="text-gray-500 text-sm">We'll respond within 24 hours</p>
                   </div>
@@ -69,7 +69,7 @@ const Contact = () => {
                     <Clock className="h-6 w-6 text-orange-600" />
                   </div>
                   <div>
-                    <h4 className="font-semibold text-gray-900 mb-1">⏰ Business Hours</h4>
+                    <h4 className="font-semibold text-gray-900 mb-1">Business Hours</h4>
                     <p className="text-gray-600">24/7 Global Support</p>
                     <p className="text-gray-500 text-sm">Always available for critical issues</p>
                   </div>
@@ -80,7 +80,7 @@ const Contact = () => {
             <div className="bg-gradient-to-br from-blue-50 to-emerald-50 rounded-2xl p-6 border border-blue-200">
               <div className="flex items-center mb-4">
                 <Globe className="h-6 w-6 text-blue-600 mr-2" />
-                <span className="text-2xl mr-2">🌐</span>
+                {/* <span className="text-2xl mr-2">🌐</span> */}
                 <h4 className="text-lg font-semibold text-gray-900">Global Reach</h4>
               </div>
               <p className="text-gray-700">

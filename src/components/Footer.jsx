@@ -22,13 +22,13 @@ const Footer = () => {
               <span className="text-2xl font-bold">NLR Global</span>
             </div>
             <p className="text-gray-300 mb-6 leading-relaxed max-w-md">
-              🌍 Global IT Services & Consulting Company delivering digital transformation solutions with secure, scalable, and innovative technology.
+              Global IT Services & Consulting Company delivering digital transformation solutions with secure, scalable, and innovative technology.
             </p>
             
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <MapPin className="h-5 w-5 text-emerald-400 flex-shrink-0" />
-                <span className="text-gray-300">📍 Nellore, Andhra Pradesh, India</span>
+                <span className="text-gray-300">Nellore, Andhra Pradesh, India</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-emerald-400 flex-shrink-0" />
@@ -36,7 +36,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-emerald-400 flex-shrink-0" />
-                <span className="text-gray-300">📞 +91 (0) 123-456-7890</span>
+                <span className="text-gray-300">+91 (0) 123-456-7890</span>
               </div>
             </div>
           </div>
@@ -62,10 +62,10 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-6">Our Services</h3>
             <ul className="space-y-3 text-gray-300">
-              <li>💻 Software Development</li>
-              <li>☁️ Cloud Solutions</li>
-              <li>🔒 Cybersecurity</li>
-              <li>💡 IT Consulting</li>
+              <li>Software Development</li>
+              <li>Cloud Solutions</li>
+              <li>Cybersecurity</li>
+              <li>IT Consulting</li>
             </ul>
           </div>
         </div>
