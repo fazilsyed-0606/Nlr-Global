@@ -6,28 +6,28 @@ const Services = () => {
     {
       icon: Code,
       title: 'Software Development',
-      emoji: '💻',
+      // emoji: '💻',
       description: 'Custom software solutions tailored to your business needs with cutting-edge technologies and modern development practices.',
       features: ['Web Applications', 'Mobile Apps', 'Enterprise Software', 'API Development', 'Legacy Modernization']
     },
     {
       icon: Cloud,
       title: 'Cloud Solutions',
-      emoji: '☁️',
+      // emoji: '☁️',
       description: 'Scalable cloud infrastructure and migration services to optimize your business operations and reduce operational costs.',
       features: ['Cloud Migration', 'Infrastructure Design', 'DevOps Services', 'Cloud Security', 'Performance Optimization']
     },
     {
       icon: Shield,
       title: 'Cybersecurity',
-      emoji: '🔒',
+      // emoji: '🔒',
       description: 'Comprehensive security solutions to protect your digital assets and ensure compliance with industry standards.',
       features: ['Security Audits', 'Threat Protection', 'Compliance Management', 'Risk Assessment', 'Incident Response']
     },
     {
       icon: Users,
       title: 'IT Consulting',
-      emoji: '💡',
+      // emoji: '💡',
       description: 'Strategic technology consulting to help you make informed decisions and accelerate your digital transformation journey.',
       features: ['Digital Strategy', 'Technology Roadmap', 'Process Optimization', 'Change Management', 'Vendor Assessment']
     }

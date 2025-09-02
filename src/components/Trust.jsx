@@ -3,10 +3,10 @@ import { Star, Users, Globe, Award } from 'lucide-react';
 
 const Trust = () => {
   const stats = [
-    { icon: Users, number: '500+', label: 'Happy Clients', emoji: '👥' },
-    { icon: Globe, number: '25+', label: 'Countries Served', emoji: '🌍' },
-    { icon: Award, number: '1000+', label: 'Projects Delivered', emoji: '🏆' },
-    { icon: Star, number: '15+', label: 'Years Experience', emoji: '⭐' }
+    { icon: Users, number: '500+', label: 'Happy Clients'  },
+    { icon: Globe, number: '25+', label: 'Countries Served'},
+    { icon: Award, number: '1000+', label: 'Projects Delivered' },
+    { icon: Star, number: '15+', label: 'Years Experience'}
   ];
 
   return (

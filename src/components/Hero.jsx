@@ -17,10 +17,10 @@ const Hero = () => {
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="text-white">
-            <div className="inline-flex items-center space-x-2 bg-white bg-opacity-10 backdrop-blur-lg rounded-full px-4 py-2 mb-6">
-              <Globe className="h-5 w-5 text-emerald-400" />
-              <span className="text-sm font-medium">Global IT Services & Consulting</span>
-            </div>
+            {/* <div className="inline-flex items-center space-x-2 bg-white bg-opacity-10 backdrop-blur-lg rounded-full px-4 py-2 mb-6"> */}
+              {/* <Globe className="h-5 w-5 text-emerald-400" /> */}
+              {/* <span className="text-sm font-medium">Global IT Services & Consulting</span> */}
+            {/* </div> */}
             
             <h1 className="text-5xl lg:text-6xl font-bold mb-6 leading-tight">
               NLR Global
@@ -28,7 +28,7 @@ const Hero = () => {
             </h1>
             
             <p className="text-xl lg:text-2xl mb-8 text-blue-100 leading-relaxed">
-              🌍 Global IT Services & Consulting Company delivering digital transformation solutions.
+               Global IT Services & Consulting Company delivering digital transformation solutions.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 mb-12">
@@ -63,7 +63,7 @@ const Hero = () => {
             </div>
           </div>
 
-          <div className="relative">
+          {/* <div className="relative">
             <div className="bg-white bg-opacity-10 backdrop-blur-lg rounded-3xl p-8 border border-white border-opacity-20">
               <h3 className="text-2xl font-bold text-white mb-6">💻 Our Expertise</h3>
               <div className="space-y-4">
@@ -83,7 +83,7 @@ const Hero = () => {
                 ))}
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>

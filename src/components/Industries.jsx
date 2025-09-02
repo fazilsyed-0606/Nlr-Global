@@ -6,28 +6,28 @@ const Industries = () => {
     {
       icon: Heart,
       title: 'Healthcare',
-      emoji: '🏥',
+      // emoji: '🏥',
       description: 'Secure, compliant solutions for healthcare providers, including patient management systems, telemedicine platforms, and health data analytics.',
       highlights: ['HIPAA Compliance', 'Patient Data Security', 'Telemedicine Solutions', 'Electronic Health Records']
     },
     {
       icon: CreditCard,
       title: 'Finance',
-      emoji: '💳',
+      // emoji: '💳',
       description: 'Robust financial technology solutions with advanced security measures, trading platforms, and regulatory compliance systems.',
       highlights: ['Banking Solutions', 'Payment Processing', 'Risk Management', 'Regulatory Compliance']
     },
     {
       icon: ShoppingBag,
       title: 'Retail',
-      emoji: '🛒',
+      // emoji: '🛒',
       description: 'Modern e-commerce platforms, inventory management systems, and customer experience solutions to drive retail success.',
       highlights: ['E-commerce Platforms', 'Inventory Systems', 'Customer Analytics', 'Omnichannel Solutions']
     },
     {
       icon: GraduationCap,
       title: 'Education',
-      emoji: '🎓',
+      // emoji: '🎓',
       description: 'Innovative educational technology solutions including learning management systems, student portals, and online collaboration tools.',
       highlights: ['LMS Development', 'Student Portals', 'Online Learning', 'Educational Analytics']
     }
@@ -41,7 +41,7 @@ const Industries = () => {
             Industries We Serve
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            🏥 Specialized solutions for Healthcare, Finance, Retail, and Education sectors
+             Specialized solutions for Healthcare, Finance, Retail, and Education sectors
           </p>
         </div>
 
